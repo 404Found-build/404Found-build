@@ -1,0 +1,49 @@
+{
+  "sourceType": "user",
+  "target": "404Found-build",
+  "theme": "gruvbox",
+  "headerStyle": "mac",
+  "hostname": "404Found",
+  "typingSpeed": 60,
+
+  "commands": [
+    "whoami",
+    "cat about.txt",
+    "cat skills.txt",
+    "cat builds.txt",
+    "cat links.txt",
+    "exit"
+  ],
+
+  "customCommands": {
+    "cat about.txt": [
+      "Engineering Build Lab",
+      "Turning ideas into hardware, firmware & machines.",
+      "",
+      "Electronics • Embedded • Robotics • Automation"
+    ],
+
+    "cat skills.txt": [
+      "PCB Design       → Altium • KiCAD",
+      "Embedded         → ESP32 • STM32 • Arduino",
+      "Firmware         → C • C++ • Python",
+      "Control          → PID • Motor Control",
+      "Automation       → PLC • Industrial Control",
+      "Tools            → MATLAB • LTspice • Keil"
+    ],
+
+    "cat builds.txt": [
+      "Custom PCBs",
+      "Robotics & Motion Control",
+      "Embedded Systems",
+      "Industrial Automation",
+      "Sensors & Motor Control"
+    ],
+
+    "cat links.txt": [
+      "GitHub           → 404Found-build",
+      "YouTube          → 404 FOUND",
+      "Instagram        → @404found.build"
+    ]
+  }
+}
