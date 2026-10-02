@@ -24,10 +24,10 @@ If you like circuits, robots, PLCs, and honest build fails, you're in the right 
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_YOUTUBE_HANDLE)
-[![Instagram](https://img.shields.io/badge/Instagram-FF4F7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM_HANDLE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE)
-[![Instructables](https://img.shields.io/badge/Instructables-D99A00?style=for-the-badge&logo=instructables&logoColor=black)](https://www.instructables.com/member/YOUR_INSTRUCTABLES_NAME/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GoVoltForge)
+[![Instagram](https://img.shields.io/badge/Instagram-FF4F7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/404Found.build)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh11dash)
+[![Instructables](https://img.shields.io/badge/Instructables-D99A00?style=for-the-badge&logo=instructables&logoColor=black)](https://www.instructables.com/member/Ashu503/)
 
 </div>
 
